@@ -1,0 +1,10 @@
+age
+screen_width
+screen_height
+total_taps
+successful_taps
+miss_taps
+tap_accuracy
+avg_reaction_time_ms
+miss_rate
+IFI
