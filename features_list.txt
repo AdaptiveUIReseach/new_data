@@ -6,3 +6,5 @@ successful_taps
 miss_taps
 tap_accuracy
 avg_reaction_time_ms
+miss_rate
+reaction_norm

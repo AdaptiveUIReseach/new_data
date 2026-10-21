@@ -9,3 +9,5 @@ __pycache__/
 .venv/
 env/
 venv/
+
+adavtive_dataset/raw_data/
